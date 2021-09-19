@@ -1,0 +1,4 @@
+Stock and Key
+general,economics
+name,stock price,latest stock change,pr response,stock drop (pr),pr crisis,capital
+name,location,stock price,owners,pr crisis,pr response
