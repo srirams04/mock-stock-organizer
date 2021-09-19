@@ -10,11 +10,11 @@ This is a GUI application simulating the stock market where you can track the sh
 6. Dual Theme - Light and Dark
 
 ## Screenshots
-![Investors tab](https://user-images.githubusercontent.com/75443405/133928470-21fe02eb-1d75-4b7f-a4df-2752a3f87876.png)
-![Creating a Tab](https://user-images.githubusercontent.com/75443405/133928487-55277792-bce7-4050-9fea-3eac32901b88.png)
-![Creating and Deleting companies](https://user-images.githubusercontent.com/75443405/133928527-c98a50c1-af9a-49e9-ad61-106cb0c09714.png)
-![Audit Log tab](https://user-images.githubusercontent.com/75443405/133928547-83836a82-db92-4b8a-a73b-eca042a2e68d.png)
-![Light Theme](https://user-images.githubusercontent.com/75443405/133928564-8db02039-2a5e-426a-9d5c-317de2bc4b71.png)
+### Investors tab ![Investors tab](https://user-images.githubusercontent.com/75443405/133928470-21fe02eb-1d75-4b7f-a4df-2752a3f87876.png)
+### Creating a Tab ![Creating a Tab](https://user-images.githubusercontent.com/75443405/133928487-55277792-bce7-4050-9fea-3eac32901b88.png)
+### Creating and Deleting companies ![Creating and Deleting companies](https://user-images.githubusercontent.com/75443405/133928527-c98a50c1-af9a-49e9-ad61-106cb0c09714.png)
+### Audit Log tab ![Audit Log tab](https://user-images.githubusercontent.com/75443405/133928547-83836a82-db92-4b8a-a73b-eca042a2e68d.png)
+### Light Theme ![Light Theme](https://user-images.githubusercontent.com/75443405/133928564-8db02039-2a5e-426a-9d5c-317de2bc4b71.png)
 
 
 
