@@ -10,16 +10,16 @@ This is a desktop GUI application simulating the stock market where one can trac
 6. Dual Theme - Light and Dark
 
 ## Screenshots
-### Investors tab 
-![Investors tab](https://user-images.githubusercontent.com/75443405/133928470-21fe02eb-1d75-4b7f-a4df-2752a3f87876.png)
+### Investors Tab [Top] + Basic Functionalities (Transact Shares, PR Crisis and PR Response) [Bottom]
+![Investors Tab](https://user-images.githubusercontent.com/75443405/133928470-21fe02eb-1d75-4b7f-a4df-2752a3f87876.png)
 
-### Creating a Tab 
-![Creating a Tab](https://user-images.githubusercontent.com/75443405/133928487-55277792-bce7-4050-9fea-3eac32901b88.png)
+### Sample Tab (GENERAL) [Top] + Creating, Deleting and Organizing Tabs [Bottom]
+![Creating, Deleting and Organizing Tabs](https://user-images.githubusercontent.com/75443405/133928487-55277792-bce7-4050-9fea-3eac32901b88.png)
 
-### Creating and Deleting companies 
-![Creating and Deleting companies](https://user-images.githubusercontent.com/75443405/133928527-c98a50c1-af9a-49e9-ad61-106cb0c09714.png)
+### Creating and Deleting Companies [Bottom]
+![Creating and Deleting Companies](https://user-images.githubusercontent.com/75443405/133928527-c98a50c1-af9a-49e9-ad61-106cb0c09714.png)
 
-### Audit Log tab 
+### Audit Log Tab [Top]
 ![Audit Log tab](https://user-images.githubusercontent.com/75443405/133928547-83836a82-db92-4b8a-a73b-eca042a2e68d.png)
 
 ### Light Theme 
