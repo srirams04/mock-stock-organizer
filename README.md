@@ -1,5 +1,5 @@
-# Mock Stock
-This is a desktop GUI application simulating the stock market where one can track the shares transacted between companies and also manage their PR crises and PR responses.
+# Mock Stock Organizer
+This is a desktop GUI application simulating the stock market where one can track the shares transacted between companies and also manage their PR crises and PR responses. 
 
 ## Features
 * Multiple worlds can exist simultaneously. A world is analogous to a stock market hosting a set of companies which can interact with each other. Inter-world interactions are NOT possible.
